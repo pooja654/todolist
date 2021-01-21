@@ -1,15 +1,15 @@
 (************************************************************ 
    Copyright (C) 2020 Cornell University.
-   Created by Sohni Uthra (su58@cornell.edu), Melissa Psaras 
-   (mrp227@cornell.edu), Pooja Kanumalla (pk457@cornell.edu), and Jyne Dunbar 
+   Created by Pooja Kanumalla (pk457@cornell.edu), Sohni Uthra 
+   (su58@cornell.edu), Melissa Psaras (mrp227@cornell.edu), and Jyne Dunbar 
    (jcd322@cornell.edu). You may not redistribute this project, distribute any 
    derivatives, or use it for commercial purposes.
  ************************************************************) 
 
 (** CS 3110 Fall 2020 Software Engineering Final Project
+    @author Pooja Kanumalla (pk457)
     @author Sohni Uthra (su58)
     @author Melissa Psaras (mrp227) 
-    @author Pooja Kanumalla (pk457)
     @author Jyne Dunbar (jcd322)*)
 
 (************************************************************ 
